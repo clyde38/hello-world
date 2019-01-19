@@ -1,2 +1,3 @@
 # hello-world
-Baby step
+
+getting started with git
